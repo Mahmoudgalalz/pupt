@@ -1,7 +1,7 @@
 # pupt
 A starter for web crawling using Puppeteer & nodejs
 
-# clone it
+# setup
 `git clone https://github.com/Mahmoudgalalz/pupt.git`
 
 `npm install` 
